@@ -1,2 +1,2 @@
 # Data-Science-1
-
+En el siguiente repositorio se encuentra cargada el challenge del curso de Data Science de Oracle One, el objetivo de los codigos aqui presentes es simular un caso real de analisis de datos con el uso de python y de graficos a fin de dar una repuesta o solucion a un problema dado, en este caso es analizar que tienda seria la mejor para cerrar con base a sus ingresos, productos vendidos, calificacion, entre otros criterios
